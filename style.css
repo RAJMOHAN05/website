@@ -1,0 +1,38 @@
+*{
+    justify-content: center;
+}
+.cn{
+    display: flex;
+    
+}
+.cn1{
+    padding-right: 40%;
+}
+.cn2{
+    background-color: black;
+    color: rgb(250, 249, 249);
+    padding-left: 40px;
+    padding-top: 1%;
+}
+.co{
+    padding-right: 70px;
+}
+button{
+    margin-top: 10px;
+    height: 30px;
+    width: 144px;
+    background: black;
+    color: white;
+}
+input{
+    margin-bottom: 10px;
+    height: 30px;
+    width: 144px;
+}
+.smile{
+    margin: 0%;
+}
+.hd{
+    margin: 0%;
+    margin-top: 10%;
+}
